@@ -1,0 +1,4 @@
+# config.toml
+baseURL = 'https://username.github.io/my-new-site/'  # Note the subdirectory
+languageCode = 'en-us'
+title = 'My Website'
